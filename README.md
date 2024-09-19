@@ -12,3 +12,4 @@ App Router の概要を理解するための、練習用サンプルコードで
 ## 練習用サンプルコード APIサーバー
 
 - training-api: 2章〜4章
+# next-training
